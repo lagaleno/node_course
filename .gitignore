@@ -1,0 +1,10 @@
+learning_node/first_api/node_modules
+learning_node/first_api/yarn.lock
+
+weather-app/utils/key.js
+weather-app/node_modules
+weather-app/package-lock.json
+
+web-server/node_modules
+web-server/package-lock.json
+web-server/src/utils/key.js
