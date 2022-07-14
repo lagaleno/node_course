@@ -1,3 +1,5 @@
+.DS_store
+
 learning_node/first_api/node_modules
 learning_node/first_api/yarn.lock
 
@@ -8,3 +10,12 @@ weather-app/package-lock.json
 web-server/node_modules
 web-server/package-lock.json
 web-server/src/utils/key.js
+
+task-manager/node_modules
+task-manager/package-lock.json
+
+user-api/node_modules
+user-api/yarn.lock
+
+client-api/node_modules
+client-api/yarn-lock
